@@ -29,4 +29,4 @@ python app.py
 
 - enjoy
 
-[image](godzilla_snow_globe.jpg)
+![image](godzilla_snow_globe.jpg)
