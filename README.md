@@ -2,6 +2,7 @@
 
 Read the blog post here:
 
+https://ephergent.com/playing-around-with-latent-consistency-loras-lcm/
 
 
 ## Install
