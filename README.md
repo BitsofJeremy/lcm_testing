@@ -4,7 +4,6 @@ Read the blog post here:
 
 https://ephergent.com/playing-around-with-latent-consistency-loras-lcm/
 
-
 ## Install
 
 Pull down the repo, create a virtualenv, activate and install requirements
@@ -20,7 +19,7 @@ pip install -r requirements.txt
 ## Generate
 
 - open `app.py` in your favorite text editor
-- change the prompt
+- change the prompt and settings as you see fit
 - save
 - run
 
